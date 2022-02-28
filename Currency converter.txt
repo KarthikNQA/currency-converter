@@ -122,7 +122,7 @@ try {
             String temp = "";
             while ((temp = in.readLine()) != null) {
                 str = str + temp;
-            }  
+            
 
 
         
